@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/125r_final/static/css/main.215aef48.chunk.css",
-    "main.js": "/125r_final/static/js/main.46c19cae.chunk.js",
-    "main.js.map": "/125r_final/static/js/main.46c19cae.chunk.js.map",
+    "main.css": "/125r_final/static/css/main.8e289bed.chunk.css",
+    "main.js": "/125r_final/static/js/main.5753ff0a.chunk.js",
+    "main.js.map": "/125r_final/static/js/main.5753ff0a.chunk.js.map",
     "runtime-main.js": "/125r_final/static/js/runtime-main.fcfe10a2.js",
     "runtime-main.js.map": "/125r_final/static/js/runtime-main.fcfe10a2.js.map",
     "static/css/2.1af7a3c5.chunk.css": "/125r_final/static/css/2.1af7a3c5.chunk.css",
-    "static/js/2.975674ff.chunk.js": "/125r_final/static/js/2.975674ff.chunk.js",
-    "static/js/2.975674ff.chunk.js.map": "/125r_final/static/js/2.975674ff.chunk.js.map",
+    "static/js/2.bcadb60d.chunk.js": "/125r_final/static/js/2.bcadb60d.chunk.js",
+    "static/js/2.bcadb60d.chunk.js.map": "/125r_final/static/js/2.bcadb60d.chunk.js.map",
     "index.html": "/125r_final/index.html",
-    "precache-manifest.213cc7811fb5eae6486c510768e2861a.js": "/125r_final/precache-manifest.213cc7811fb5eae6486c510768e2861a.js",
+    "precache-manifest.92824bc3243a2f57a02d6f9161c8ac44.js": "/125r_final/precache-manifest.92824bc3243a2f57a02d6f9161c8ac44.js",
     "service-worker.js": "/125r_final/service-worker.js",
     "static/css/2.1af7a3c5.chunk.css.map": "/125r_final/static/css/2.1af7a3c5.chunk.css.map",
-    "static/css/main.215aef48.chunk.css.map": "/125r_final/static/css/main.215aef48.chunk.css.map",
+    "static/css/main.8e289bed.chunk.css.map": "/125r_final/static/css/main.8e289bed.chunk.css.map",
     "static/media/Demo.mp4": "/125r_final/static/media/Demo.822b978c.mp4",
     "static/media/about.jpg": "/125r_final/static/media/about.bc08d16c.jpg",
     "static/media/lakers_logo.png": "/125r_final/static/media/lakers_logo.8f36b909.png",
+    "static/media/poster.png": "/125r_final/static/media/poster.82f66155.png",
     "static/media/presentation_in.PNG": "/125r_final/static/media/presentation_in.2bfcd738.PNG",
     "static/media/大煮干丝.jpeg": "/125r_final/static/media/大煮干丝.e43b45d1.jpeg",
     "static/media/河虾.jpg": "/125r_final/static/media/河虾.d0c5a1bf.jpg",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.fcfe10a2.js",
     "static/css/2.1af7a3c5.chunk.css",
-    "static/js/2.975674ff.chunk.js",
-    "static/css/main.215aef48.chunk.css",
-    "static/js/main.46c19cae.chunk.js"
+    "static/js/2.bcadb60d.chunk.js",
+    "static/css/main.8e289bed.chunk.css",
+    "static/js/main.5753ff0a.chunk.js"
   ]
 }
