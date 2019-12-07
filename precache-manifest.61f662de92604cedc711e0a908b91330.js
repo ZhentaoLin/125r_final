@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30143ec41aa2343b79f6846aac77e608",
+    "revision": "5773cd4947bed3500b23123202714011",
     "url": "/125r_final/index.html"
   },
   {
-    "revision": "a4fa15a33d80de110c34",
+    "revision": "5951bfbfcb5bd340cd0c",
     "url": "/125r_final/static/css/2.1af7a3c5.chunk.css"
   },
   {
-    "revision": "20f46685fe8bf277e695",
-    "url": "/125r_final/static/css/main.8e289bed.chunk.css"
+    "revision": "558884fbf47ba4c8e819",
+    "url": "/125r_final/static/css/main.46481d43.chunk.css"
   },
   {
-    "revision": "a4fa15a33d80de110c34",
-    "url": "/125r_final/static/js/2.bcadb60d.chunk.js"
+    "revision": "5951bfbfcb5bd340cd0c",
+    "url": "/125r_final/static/js/2.f7248904.chunk.js"
   },
   {
-    "revision": "20f46685fe8bf277e695",
-    "url": "/125r_final/static/js/main.cf797224.chunk.js"
+    "revision": "558884fbf47ba4c8e819",
+    "url": "/125r_final/static/js/main.3049c0f4.chunk.js"
   },
   {
     "revision": "06f8f950aad92a25bf4e",
@@ -32,6 +32,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/125r_final/static/media/about.bc08d16c.jpg"
   },
   {
+    "revision": "210bd1ecf2b3ab96f5a7b5dc570b240c",
+    "url": "/125r_final/static/media/avatar.210bd1ec.jpg"
+  },
+  {
+    "revision": "da1344674f3ea908f3ffcc13d71050dd",
+    "url": "/125r_final/static/media/cr7.da134467.jpg"
+  },
+  {
+    "revision": "bd35d73bfde94d513835fd836e75f823",
+    "url": "/125r_final/static/media/got.bd35d73b.jpg"
+  },
+  {
     "revision": "8f36b909bde2318763a238f3bf9880d1",
     "url": "/125r_final/static/media/lakers_logo.8f36b909.png"
   },
@@ -42,6 +54,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2bfcd738a4f99111d41ef26e6d831adb",
     "url": "/125r_final/static/media/presentation_in.2bfcd738.PNG"
+  },
+  {
+    "revision": "ce46d4fa43544186ddfc7b5e8204bf65",
+    "url": "/125r_final/static/media/table_tennis.ce46d4fa.jpg"
+  },
+  {
+    "revision": "269c141aa921cf0fb3f48c37adadc0a2",
+    "url": "/125r_final/static/media/tech.269c141a.jpg"
+  },
+  {
+    "revision": "a28f042ee70b8b54add0518f9e6d6494",
+    "url": "/125r_final/static/media/tennis.a28f042e.jpg"
   },
   {
     "revision": "e43b45d134d88a6efcb21aeb350f97c1",
